@@ -1,2 +1,1 @@
-# Stargaze
-A movie discovery &amp; watchlist app using Next.js, TMDB, and Prisma
+A movie discovery and watchlist app using Next.js, TMDB, and Prisma
